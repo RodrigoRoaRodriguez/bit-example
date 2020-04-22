@@ -1,21 +1,19 @@
 import * as React from "react";
-import { ReactComponent as Logo } from "./logo.svg";
+import { ReactComponent as Logo } from "@bit/slotmillab.svg-example.logo";
 
 export default function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Logo className="App-logo" title="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
+        <Logo className="App-logo" />
+        <p>Raw Svg as bit component</p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://bit.dev/slotmillab/svg-example/logo"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Link to component
         </a>
       </header>
     </div>
