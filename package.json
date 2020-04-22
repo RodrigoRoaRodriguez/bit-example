@@ -2,6 +2,7 @@
   "name": "bit-example",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rodrigoroarodriguez.github.io/bit-example/",
   "dependencies": {
     "@bit/slotmillab.svg-example.logo": "0.0.1",
     "@bit/slotmillab.svg-example.logo-component": "0.0.1",
